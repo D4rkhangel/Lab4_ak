@@ -1,0 +1,5 @@
+/media/roma/Jetflash/lab4/CMakeFiles/rebuild_cache.dir
+/media/roma/Jetflash/lab4/CMakeFiles/edit_cache.dir
+/media/roma/Jetflash/lab4/CMakeFiles/main.dir
+/media/roma/Jetflash/lab4/CMakeFiles/hello.dir
+/media/roma/Jetflash/lab4/CMakeFiles/fact.dir
